@@ -68,7 +68,9 @@ Special thanks for our Partner PCBWAY
 <img width="450" height="449" alt="image" src="https://github.com/user-attachments/assets/1ff3d151-3384-4f52-b880-b49dd4329af0" />
 <h2> If you wish to implement this project, I highly recommend their service, as they are fast, reliable and produce high quality boards for a fair price.
 <h2>https://www.pcbway.com/</h2>
-PCBWay works with:
+  
+🎞 PCBWay works with: 🎞
+
 
 😍 3D prototyping,
 
