@@ -16,7 +16,7 @@ solder junper in the VCC bus to transfer only the necessary vcc enerrgy to suppl
 There´s no need to embedded serial to Usb chips like CH340 in your core bords. You can 
 simply plug the right connections and progra many PCBs fast and safelly.
 
-🛡 I also encourage users to start to assemble in SMT,and loose their fear and know it´s easy and FASTER than use
+🛡 I also encourage users to start to assemble in SMT,and loose their concerns and know it´s easy and FASTER than use
 PTH!
 
 🎞 here follows the schematics picture and BOM bellow:
