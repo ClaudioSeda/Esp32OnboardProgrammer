@@ -83,7 +83,8 @@ Thank you for sponsoring this project!</h2>
 5. I recommend do not use more than 400oC heat from your soldering iron/station.
 6. Use a very fine tip.
 7. Don´t try to solder components like resistors,capacitors all lose. Try fine tip tweezers.
-<img width="450" height="613" alt="image" src="https://github.com/user-attachments/assets/0648bd49-34ae-4b44-bb00-079a26781a45" />
+<img width="888" height="1225" alt="image" src="https://github.com/user-attachments/assets/62a5ddfb-ed05-4d56-a689-4ef044f4151a" />
+
 
 
 
