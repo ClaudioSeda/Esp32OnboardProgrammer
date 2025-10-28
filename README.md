@@ -3,6 +3,15 @@ You dont need to place serial to usb converters onboard!
 An easy way to upload you binaries to wroom modules.
 Simply plug the programmer in your board and upload your binaries.
 Cool way to produce you esp32 boards!
+
+
+This project is for very beginners from integrating ESP32 Wroom Modules in their PCBs.
+There´s no need to embedded serial to Usb chips like CH340 in your core bords. You can 
+simply plug the right connections and progra many PCBs fast and safelly.
+
+I also encourage users to start to assemble in SMT,and loose their fear and know it´s easy and FASTER than use
+PTH!
+
 here follows the schematics picture and BOM bellow:
 
 <img width="904" height="630" alt="image" src="https://github.com/user-attachments/assets/36d6b947-79f1-43b9-b3c0-da293d45aa82" />
@@ -63,6 +72,20 @@ manufacturing and assembly,
 and also with CNC metal fabrication.
 
 Thank you for sponsoring this project!</h2>
+
+
+<h1> TIPS:</h1>
+
+1.  If you could,preheat your pcb (not burnit,only pre heat to almost 70 oC
+2.  You will need to use solder flux (no clean or rosin) but dont leave,in case of rosin,to stay to much time in heat. Appy when you solder.
+3. I strongly recomend you to try to use a STENCIL,but this board is very easy,it´s not a must. For mor complex and fine pitch components,it´s almost mandatory (QFN for example)
+4. If you do a mistake,only remove and try it again,remove all solder from pads an do it again. 
+5. I recommend do not use more than 400oC heat from your soldering iron/station.
+6. Use a very fine tip.
+7. Don´t try to solder components like resistors,capacitors all lose. Try fine tip tweezers.
+<img width="450" height="613" alt="image" src="https://github.com/user-attachments/assets/0648bd49-34ae-4b44-bb00-079a26781a45" />
+
+
 
 
 
