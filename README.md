@@ -83,13 +83,13 @@ Thank you for sponsoring this project!</h2>
 
 <h1> 🏆 TIPS:🏆 </h1>
 
-1.  If you could,preheat your pcb (not burnit,only pre heat to almost 70 oC
-2.  You will need to use solder flux (no clean or rosin) but dont leave,in case of rosin,to stay to much time in heat. Appy when you solder.
-3. I strongly recomend you to try to use a STENCIL,but this board is very easy,it´s not a must. For mor complex and fine pitch components,it´s almost mandatory (QFN for example)
-4. If you do a mistake,only remove and try it again,remove all solder from pads an do it again. 
-5. I recommend do not use more than 400oC heat from your soldering iron/station.
-6. Use a very fine tip.
-7. Don´t try to solder components like resistors,capacitors all lose. Try fine tip tweezers.
+✅ 1.  If you could,preheat your pcb (not burnit,only pre heat to almost 70 oC
+✅ 2.  You will need to use solder flux (no clean or rosin) but dont leave,in case of rosin,to stay to much time in heat. Appy when you solder.
+✅ 3. I strongly recomend you to try to use a STENCIL,but this board is very easy,it´s not a must. For mor complex and fine pitch components,it´s almost mandatory (QFN for example)
+✅ 4. If you do a mistake,only remove and try it again,remove all solder from pads an do it again. 
+✅ 5. I recommend do not use more than 400oC heat from your soldering iron/station.
+✅ 6. Use a very fine tip.
+✅ 7. Don´t try to solder components like resistors,capacitors all lose. Try fine tip tweezers.
 <img width="888" height="1225" alt="image" src="https://github.com/user-attachments/assets/62a5ddfb-ed05-4d56-a689-4ef044f4151a" />
 
 
