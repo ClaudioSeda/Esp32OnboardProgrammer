@@ -45,16 +45,16 @@ here follows the schematics picture and BOM bellow:
 
 19	J2	PROGOUT Connector 2.54mm pitch
 
-<h1> Sponsorship
+<h1> Sponsorship</h1>
 Special thanks for our Partner PCBWAY
 <img width="1897" height="631" alt="image" src="https://github.com/user-attachments/assets/87560be4-191f-4f47-86c4-b96cbfc414fd" />
 
 <img width="450" height="449" alt="image" src="https://github.com/user-attachments/assets/1ff3d151-3384-4f52-b880-b49dd4329af0" />
-If you wish to implement this project, I highly recommend their service, as they are fast, reliable and produce high quality boards for a fair price.
+<h2> If you wish to implement this project, I highly recommend their service, as they are fast, reliable and produce high quality boards for a fair price.
 
 PCBWay works with 3D prototyping, PCB design, manufacturing and assembly, and also with CNC metal fabrication.
 
-<strong>Thank you for sponsoring this project!
+Thank you for sponsoring this project!</h2>
 
 
 
