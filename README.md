@@ -70,15 +70,15 @@ Special thanks for our Partner PCBWAY
 <h2>https://www.pcbway.com/</h2>
 PCBWay works with:
 
-3D prototyping,
+😍 3D prototyping,
 
-PCB design, 
+😍 PCB design, 
 
-manufacturing and assembly,
+😍 manufacturing and assembly,
 
-and also with CNC metal fabrication.
+😍and also with CNC metal fabrication.
 
-Thank you for sponsoring this project!</h2>
+💚  Thank you for sponsoring this project!</h2>
 
 
 <h1> 🏆 TIPS:🏆 </h1>
