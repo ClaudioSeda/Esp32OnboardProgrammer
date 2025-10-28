@@ -3,6 +3,12 @@ You dont need to place serial to usb converters onboard!
 An easy way to upload you binaries to wroom modules.
 Simply plug the programmer in your board and upload your binaries.
 Cool way to produce you esp32 boards!
+how to proceed in programming:
+
+Put in your core pcb the same connections to GPIOS indicated in PROG CONNECTOR.
+Conect directly. Its preferable to have only esp32 in the 3.3V bus in the moment of program upload. So plan to have a
+solder junper in the VCC bus to transfer only the necessary vcc enerrgy to supply the esp32. After that close the solder jumper and be happy.
+
 
 
 This project is for very beginners from integrating ESP32 Wroom Modules in their PCBs.
