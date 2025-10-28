@@ -15,21 +15,37 @@ here follows the schematics picture and BOM bellow:
 3	C3	220uF
 
 4	R3	470
+
 5	R4	470
+
 6	R5	470
+
 7	R6	470
+
 8	R7	470
+
 9	R1	10k
+
 10	R2	10k
+
 11	D1	LED
+
 12	D2	LED
+
 13	D3	LED
+
 14	U1	CH340C
+
 15	U2	AMS1117-3.3
+
 16	Q1	UMH3N
+
 17	Q2	UMH3N
+
 18	J1	USB_Micro_SMD
+
 19	J2	PROGOUT Connector 2.54mm pitch
+
 
 
 
