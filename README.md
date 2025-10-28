@@ -4,7 +4,7 @@ An easy way to upload you binaries to wroom modules.
 Simply plug the programmer in your board and upload your binaries.
 Cool way to produce you esp32 boards!
 here follows the schematics picture:
-<img width="907" height="620" alt="image" src="https://github.com/user-attachments/assets/faebc917-d9a2-47d8-a099-8e7268693dc2" />
+<img width="904" height="630" alt="image" src="https://github.com/user-attachments/assets/36d6b947-79f1-43b9-b3c0-da293d45aa82" />
 
 
 <img width="1897" height="631" alt="image" src="https://github.com/user-attachments/assets/02c7996f-5387-4431-9811-42a02d390e3d" />
