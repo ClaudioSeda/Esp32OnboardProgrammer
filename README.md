@@ -7,7 +7,6 @@ here follows the schematics picture and BOM bellow:
 
 <img width="904" height="630" alt="image" src="https://github.com/user-attachments/assets/36d6b947-79f1-43b9-b3c0-da293d45aa82" />
 
-	References	Value
 1	C1	1uF
 
 2	C2	100n
