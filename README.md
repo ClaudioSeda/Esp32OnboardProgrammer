@@ -1,9 +1,10 @@
 # Esp32OnboardProgrammer
-You dont need to place serial to usb converters onboard! 
+🔌 You dont need to place serial to usb converters onboard! 
 An easy way to upload you binaries to wroom modules.
 Simply plug the programmer in your board and upload your binaries.
 Cool way to produce you esp32 boards!
-how to proceed in programming:
+
+✳how to proceed in programming:
 
 Put in your core pcb the same connections to GPIOS indicated in PROG CONNECTOR.
 Conect directly. Its preferable to have only esp32 in the 3.3V bus in the moment of program upload. So plan to have a
@@ -11,14 +12,14 @@ solder junper in the VCC bus to transfer only the necessary vcc enerrgy to suppl
 
 
 
-This project is for very beginners from integrating ESP32 Wroom Modules in their PCBs.
+✅ This project is for very beginners from integrating ESP32 Wroom Modules in their PCBs.
 There´s no need to embedded serial to Usb chips like CH340 in your core bords. You can 
 simply plug the right connections and progra many PCBs fast and safelly.
 
-I also encourage users to start to assemble in SMT,and loose their fear and know it´s easy and FASTER than use
+🛡 I also encourage users to start to assemble in SMT,and loose their fear and know it´s easy and FASTER than use
 PTH!
 
-here follows the schematics picture and BOM bellow:
+🎞 here follows the schematics picture and BOM bellow:
 
 <img width="904" height="630" alt="image" src="https://github.com/user-attachments/assets/36d6b947-79f1-43b9-b3c0-da293d45aa82" />
 
@@ -80,7 +81,7 @@ and also with CNC metal fabrication.
 Thank you for sponsoring this project!</h2>
 
 
-<h1> TIPS:</h1>
+<h1> 🏆 TIPS:🏆 </h1>
 
 1.  If you could,preheat your pcb (not burnit,only pre heat to almost 70 oC
 2.  You will need to use solder flux (no clean or rosin) but dont leave,in case of rosin,to stay to much time in heat. Appy when you solder.
