@@ -11,5 +11,8 @@ They also offer supporting services such as component procurement, SMT, CNC mach
 With advanced equipment and strict quality control,PCBWAY provide customers with efficient and reliable electronics manufacturing solutions.
 Thanks to PCBWAY!
 
+<img width="449" height="509" alt="image" src="https://github.com/user-attachments/assets/d7f354b1-bca7-4688-b912-c92503ab5190" />
+
+
 <img width="957" height="743" alt="image" src="https://github.com/user-attachments/assets/e9a65579-a771-434e-bd49-3b56b3f076d9" />
 
