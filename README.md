@@ -9,8 +9,11 @@ here follows the schematics picture and BOM bellow:
 
 	References	Value
 1	C1	1uF
+
 2	C2	100n
+
 3	C3	220uF
+
 4	R3	470
 5	R4	470
 6	R5	470
